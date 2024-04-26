@@ -531,7 +531,13 @@ img{
     margin-left: 80px;
 }
 
-.footer-subtitel {}
+.footer-subtitel {
+    margin-bottom: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
 
 .footer-form {
     display: flex;
