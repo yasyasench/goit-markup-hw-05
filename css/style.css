@@ -672,8 +672,8 @@ img{
      
 }
 
-.exit-button:hover .form-icon,
-.exit-button:focus .form-icon{
+.exit-button:hover .exit-icon,
+.exit-button:focus .exit-icon{
     background-color: #404BBF;
     border: none;
     fill: #ffffff;
@@ -812,7 +812,7 @@ img{
 }
 
 .form-check:checked + .check-text span{
-    border-color: #404BBF;
+    background-color: #404BBF;
     border: none;
     fill: #f4f4fd;
 }
